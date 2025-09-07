@@ -388,6 +388,7 @@ FodyWeavers.xsd
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+!client/.vscode/*
 *.code-workspace
 
 # Local History for Visual Studio Code
@@ -484,6 +485,5 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/Migrations/
-.vscode/launch.json
-.vscode/settings.json
 API/watty.db*
+client/.editorconfig
